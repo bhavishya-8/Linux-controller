@@ -23,11 +23,11 @@ window.configure(background='light steel blue')
 message = tk.Label(window,  text = "Linux controller", bg="slate blue", fg="black", height=2, width=int(window.winfo_screenwidth()/2), font=('times', 30, 'italic bold ')).pack()
 
 #frames left and right
-terminal_result = tk.Label(window, text="Terminal Result: ", fg="black", bg="light steel blue", font=('Helvetica 15 underline', 18), )
-terminal_result.place(x=650, y=130)
+# terminal_result = tk.Label(window, text="Terminal Result: ", fg="black", bg="light steel blue", font=('Helvetica 15 underline', 18), )
+# terminal_result.place(x=650, y=130)
 
-dataFrameRight = Frame(window, bd=10, padx=20, relief=RIDGE)
-dataFrameRight.place(x=650, y=170, width=590, height=400)
+# dataFrameRight = Frame(window, bd=10, padx=20, relief=RIDGE)
+# dataFrameRight.place(x=650, y=170, width=590, height=400)
 
 # termf = Frame(window)
 # dataFrameRight.pack(side=BOTTOM, fill=X)
