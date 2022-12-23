@@ -37,7 +37,7 @@ def opt(y):
 			ssh_command(ip_address,command)
 		elif x==4:
 			os.system("clear")
-			print("You have choosed to configure the HTTPD server, so you can connect to the IP address 172.16.89.160:80")
+			print("You have choosed to configure the HTTPD server")
 			config_httpd()
 		elif x==5:
 			os.system("clear")
