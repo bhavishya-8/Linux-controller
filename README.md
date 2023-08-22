@@ -17,10 +17,11 @@ This repository contains two Python files, `file1.py` and `file11.py`, which tog
 ```python
 # Code from file1.py
 ## File `file11.py`
-
+```
 ```python
 # Code from file11.py
 # Paste your file11.py code here
+```
 ## Usage
 
 1. **Ensure you have Python and the required libraries installed.**
@@ -29,6 +30,7 @@ This repository contains two Python files, `file1.py` and `file11.py`, which tog
 
    ```bash
    python file11.py
+   ```
 ## Usage
 
 1. The GUI window will appear, offering options to execute different commands.
@@ -49,12 +51,12 @@ You can install the required library using the following command:
 
 ```bash
 pip install tk
+```
 
 ## Advantages
 
 - Provides an intuitive graphical interface for executing Linux commands.
 - Offers a convenient way to interact with the system without using the terminal directly.
 - Suitable for users who are not familiar with command-line interfaces.
+![Running GIF](  https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg )
 
-**Note:** This repository is a simple demonstration of a Linux controller application. It may not cover all use cases or edge cases.
-![Running GIF](  https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg)
