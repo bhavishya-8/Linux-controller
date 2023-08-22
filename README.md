@@ -10,18 +10,8 @@ This repository contains two Python files, `file1.py` and `file11.py`, which tog
 - Execute commands such as `date`, `cal`, SSH to remote machines, and configure an HTTPD server.
 - GUI built with `tkinter` for easy interaction.
 
-### How It Works
 
-**File `file1.py`**
 
-```python
-# Code from file1.py
-## File `file11.py`
-```
-```python
-# Code from file11.py
-# Paste your file11.py code here
-```
 ## Usage
 
 1. **Ensure you have Python and the required libraries installed.**
